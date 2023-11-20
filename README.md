@@ -1,3 +1,3 @@
-# instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
+# BOOSTRAP-ODEV2
+Bosstrap-Odev2 completed.
 <img src="/img/insSs.png">
